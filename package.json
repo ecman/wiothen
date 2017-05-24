@@ -1,6 +1,6 @@
 {
   "name": "wiothen",
-  "version": "1.0.0-1",
+  "version": "1.0.0-2",
   "description": "Promise, then, on all filepaths in a directory tree",
   "main": "index.js",
   "dependencies": {

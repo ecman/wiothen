@@ -1,6 +1,6 @@
 # wiothen
 
-Promise, then, on all filepaths in a directory tree
+Promise, then, on filepaths in a directory tree
 
 This is BETA.
 
