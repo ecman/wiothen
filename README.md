@@ -29,9 +29,7 @@ Output:
 
 ```text
 got filepath: package.json
-got filepath: out.txt
 got filepath: index.js
-got filepath: check_2.js
 got filepath: README.md
 no more filepaths
 ```
